@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": "pokelegacy",
+      "name": "Poke Legacy",
+      "description": "Servidor Coblemon 1.21.1",
+      "icon": "https://raw.githubusercontent.com/Scotchx3/poke-legacy-data/main/seal.png",
+      "version": "1.21.1",
+      "mainServer": true,
+      "modules": []
+    }
+  ]
+}
