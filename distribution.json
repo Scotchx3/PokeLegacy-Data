@@ -1,13 +1,16 @@
 {
   "version": "1.0.0",
+  "rss": "https://gist.githubusercontent.com/dscalzi/b87b2cd998c0b2c140c83a992cb95326/raw/702b80ea976e5d0d12dd3c588e14e1a5f6e8d2e8/rss.json",
   "servers": [
     {
       "id": "pokelegacy",
       "name": "Poke Legacy",
       "description": "Servidor Coblemon 1.21.1",
       "icon": "https://raw.githubusercontent.com/Scotchx3/poke-legacy-data/main/seal.png",
-      "version": "1.21.1",
+      "version": "1.0.0",
+      "minecraftVersion": "1.21.1",
       "mainServer": true,
+      "autoconnect": false,
       "modules": []
     }
   ]
